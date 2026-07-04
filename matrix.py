@@ -31,9 +31,9 @@ print("\nelements of matrix2")
 matrix2=matrixinput(r2,c2)
 
 print("the given matrix1 is:")
-displaymatrix(r1,r2,matrix1)
+displaymatrix(r1,c1,matrix1)
 print("\n")
 print("the given matrix2 is:")
-displaymatrix(r1,r2,matrix2)
+displaymatrix(r2,c2,matrix2)
 
         
